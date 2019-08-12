@@ -23,7 +23,7 @@
   <string name="activity_account_text_loading_2">Инициирование удаления аккаунта.</string>
   <string name="activity_account_text_loading_2_text">(шучу, все еще загружается &#8230;)</string>
   <string name="activity_account_text_loading_3">SPAI анализ в процессе.</string>
-  <string name="activity_account_text_loading_3_text">Пожалуйста, подождите, пока мы подтвердим, что вы SPAI.</string>
+  <string name="activity_account_text_loading_3_text">Пожалуйста подождите, пока мы подтвердим что вы SPAI.</string>
   <string name="activity_account_text_loading_4">Деформация до бесконечности и за ее пределами.</string>
   <string name="activity_account_text_loading_4_text">Кто-то сказал прыгать?</string>
   <string name="activity_account_text_loading_5">Могу ли я импортировать мой Drake в Evanova?</string>
