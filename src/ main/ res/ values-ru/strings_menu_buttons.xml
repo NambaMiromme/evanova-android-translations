@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="activity_character_button_fittings">Фитинг</string>
+  <string name="activity_character_button_messages">Почта</string>
+  <string name="activity_character_button_assets">Активы</string>
+  <string name="activity_character_button_wallet">Бумажник</string>
+  <string name="activity_character_button_orders">Рынок</string>
+  <string name="activity_character_button_contracts">Контракты</string>
+  <string name="activity_character_button_industry">Промышленность</string>
+  <string name="activity_character_button_planetary">Планетарная</string>
+  <string name="activity_character_button_social">Контакты</string>
+  <string name="activity_character_button_calendar">Календарь</string>
+  <string name="activity_corporation_button_assets">Активы</string>
+  <string name="activity_corporation_button_wallet">Бумажник</string>
+  <string name="activity_corporation_button_orders">Рынок(Ордера)</string>
+  <string name="activity_corporation_button_contracts">Контракты</string>
+  <string name="activity_corporation_button_industry">Промышленность</string>
+  <string name="activity_corporation_button_social">Контакты</string>
+</resources>
