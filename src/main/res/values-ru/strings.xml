@@ -12,7 +12,7 @@
   <string name="drawer_login">Добавить персонажа</string>
   <string name="drawer_characters">Персонажи</string>
   <string name="drawer_corporations">Корпорации</string>
-  <string name="drawer_about">Около</string>
+  <string name="drawer_about">Информация</string>
   <string name="drawer_settings">Настройки</string>
   <string name="drawer_skills">Навыки</string>
   <string name="drawer_routes">Маршруты</string>
@@ -20,8 +20,8 @@
   <string name="drawer_fittings">Совместимости</string>
   <string name="drawer_server">Cервер</string>
   <string name="search_items_hint">Поиск предметов</string>
-    <string name="activity_help_tab_about">Около</string>
-  <string name="activity_help_tab_changes">изменения</string>
+    <string name="activity_help_tab_about">Информация</string>
+  <string name="activity_help_tab_changes">Изменения</string>
   <string name="activity_mailboxes_apply_online">"Примените это действие онлайн. "</string>
   <string name="activity_assets_description">Aктивы</string>
   <string name="activity_assets_description_corporation">Активы корпорации</string>
