@@ -7,7 +7,7 @@
   <string name="activity_character_status_title">Состояние безопасности %s</string>
   <string name="activity_character_status_text">%1$s - будет атакован в %2$f</string>
   <string name="activity_character_ship_unknown">Нет информации о корабле</string>
-  <string name="activity_character_dialogs_wallpaperize_title">Установка обоев.</string>
+  <string name="activity_character_dialogs_wallpaperize_title">Установить как обои</string>
   <string name="activity_character_dialogs_wallpaperize_text">Это заменит обои вашего устройства с этим портретом.</string>
   <string name="activity_character_dialogs_backgroundify_title">Установить фон.</string>
   <string name="activity_character_dialogs_backgroundify_text">Это заменит фон приложения этим портретом.</string>
