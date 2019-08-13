@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activity_character_details_attributes_title">Атрибуты</string>
+  <string name="activity_character_details_attributes_title">Характеристика</string>
   <string name="activity_character_details_clones_title">Клоны</string>
   <string name="activity_character_details_summary_title">История</string>
   <string name="activity_character_details_age">%1$s лет</string>
@@ -12,7 +12,7 @@
   <string name="activity_character_details_history_since">С %1$s</string>
   <string name="activity_character_details_history_between">От %1$s до %2$s</string>
   <string name="activity_character_details_location_none">Нет информации о местоположении</string>
-  <string name="activity_character_details_clone_unknown">неназванный</string>
+  <string name="activity_character_details_clone_unknown">Безымянный</string>
   <string name="activity_character_details_jump_activation_none">Активный</string>
   <string name="activity_character_details_jump_last_none">Нет информации о прыжке</string>
   <string name="activity_character_details_jump_fatigue_none">Нет усталости от прыжка</string>
