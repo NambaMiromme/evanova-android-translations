@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_contacts_tab_contacts">Контакты</string>
-  <string name="activity_contacts_tab_standings">Турнирная таблица</string>
+  <string name="activity_contacts_tab_standings">Отношения</string>
   <string name="activity_contacts_tab_agents">Агенты</string>
   <string name="activity_contacts_labels_empty">Без метки</string>
   <string name="activity_contacts_labels_count">%1$d контакты</string>
